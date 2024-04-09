@@ -1,7 +1,6 @@
 {
   "name": "meme-ception",
   "version": "0.1.0",
-  "homepage": ".",
   "private": true,
   "dependencies": {
     "@permaweb/aoconnect": "^0.0.48",

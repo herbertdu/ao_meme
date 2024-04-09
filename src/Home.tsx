@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { dryrun } from "@permaweb/aoconnect";
 
+
 const MEME = "-a4T7XLMDGTcu8_preKXdUT6__4sJkMhYLEJZkXUYd0"
 const INITIAL_FRAME = "J_6eJSA-NZ8BnmdZVtb3vTTd1_LDVBi4_c4grV7mWGc"
 
